@@ -1,7 +1,7 @@
 # Deep-Rock-Galactic-ray-tracing
 
 Added RGTI profile for Deep Rock Galactic as below.
-Example slide shots (opens in new tab): <a href="https://imgsli.com/OTExODk" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTA" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTE"  target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTM" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTQ" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTU" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTY" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExODc" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExODg" target="_blank">(link)</a>
+Example slide shots (hold ctrl to open in a new tab): <a href="https://imgsli.com/OTExODk" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTA" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTE"  target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTM" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTQ" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTU" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExOTY" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExODc" target="_blank">(link)</a>, <a href="https://imgsli.com/OTExODg" target="_blank">(link)</a>
 
 See PSO example for full details, this is just the difference for this game.
 
