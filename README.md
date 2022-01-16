@@ -1,16 +1,7 @@
 # Deep-Rock-Galactic-ray-tracing
 
 Added RGTI profile for Deep Rock Galactic as below.
-Examples:
-https://imgsli.com/OTExODk
-https://imgsli.com/OTExOTA
-https://imgsli.com/OTExOTE
-https://imgsli.com/OTExOTM
-https://imgsli.com/OTExOTQ
-https://imgsli.com/OTExOTU
-https://imgsli.com/OTExOTY
-https://imgsli.com/OTExODc
-https://imgsli.com/OTExODg
+Example slide shots: <a href="https://imgsli.com/OTExODk">(link)</a>, <a href="https://imgsli.com/OTExOTA">(link)</a>, <a href="https://imgsli.com/OTExOTE">(link)</a>, <a href="https://imgsli.com/OTExOTM">(link)</a>, <a href="https://imgsli.com/OTExOTQ">(link)</a>, <a href="https://imgsli.com/OTExOTU">(link)</a>, <a href="https://imgsli.com/OTExOTY">(link)</a>, <a href="https://imgsli.com/OTExODc">(link)</a>, <a href="https://imgsli.com/OTExODg">(link)</a>
 
 See PSO example for full details, this is just the difference for this game.
 
