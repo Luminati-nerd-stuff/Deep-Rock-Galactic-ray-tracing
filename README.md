@@ -2,7 +2,7 @@
 
 Added RGTI profile for Deep Rock Galactic as below.
 Examples:
-```https://imgsli.com/OTExODk
+https://imgsli.com/OTExODk
 https://imgsli.com/OTExOTA
 https://imgsli.com/OTExOTE
 https://imgsli.com/OTExOTM
@@ -10,15 +10,16 @@ https://imgsli.com/OTExOTQ
 https://imgsli.com/OTExOTU
 https://imgsli.com/OTExOTY
 https://imgsli.com/OTExODc
-https://imgsli.com/OTExODg```
+https://imgsli.com/OTExODg
 
 See PSO example for full details, this is just the difference for this game.
 
+```
 ReShade.ini:
-```PreprocessorDefinitions=RESHADE_DEPTH_LINEARIZATION_FAR_PLANE=1000.0,RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN=0,RESHADE_DEPTH_INPUT_IS_REVERSED=1,RESHADE_DEPTH_INPUT_IS_LOGARITHMIC=0```
+PreprocessorDefinitions=RESHADE_DEPTH_LINEARIZATION_FAR_PLANE=1000.0,RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN=0,RESHADE_DEPTH_INPUT_IS_REVERSED=1,RESHADE_DEPTH_INPUT_IS_LOGARITHMIC=0```
 
 DeepRockGalactic_Preset.ini:
-```PreprocessorDefinitions=MATERIAL_TYPE=1
+PreprocessorDefinitions=MATERIAL_TYPE=1
 Techniques=MXAO@qUINT_mxao.fx,RTGlobalIllumination@qUINT_rtgi.fx,DELC_Sharpen@qUINT_sharp.fx
 TechniqueSorting=MXAO@qUINT_mxao.fx,Daltonize@Daltonize.fx,UIMask_Top@UIMask.fx,UIMask_Bottom@UIMask.fx,DisplayDepth@DisplayDepth.fx,Debanding@qUINT_deband.fx,SSR@qUINT_ssr.fx,Deband@Deband.fx,LUT@LUT.fx,ADOF@qUINT_dof.fx,Lightroom@qUINT_lightroom.fx,Bloom@qUINT_bloom.fx,RTGlobalIllumination@qUINT_rtgi.fx,DELC_Sharpen@qUINT_sharp.fx
 
